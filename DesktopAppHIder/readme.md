@@ -1,7 +1,8 @@
 # Desktop App Hider (for Mac)
-<br/><br/>
+
 - 데스크탑이 지저분해서 짜증이 날 때 해당 코드를 실행하면 데스크탑(바탕화면)의 아이콘을 깨끗하게 숨겨줍니다.  
 - tkinter를 활용해서 GUI 형태를 가집니다.  
+<br/><br/>
 ### 작동 방식은 아래와 같이 단순합니다.
 1. 터미널을 실행합니다.
 2. defaults write com.apple.finder CreateDesktop false를 입력 후 엔터
